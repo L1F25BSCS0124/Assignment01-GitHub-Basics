@@ -1,3 +1,6 @@
+//Shoaib Mirza
+//L1F25BSCS0124
+
 #include <iostream>
 using namespace std;
 
